@@ -4,7 +4,7 @@ Tags: plugin, shortcode, template, text, review, disclaimer
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CJGP9D7VBYLN8
 Requires at least: 3.1
 Tested up to: 3.8
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -58,9 +58,12 @@ If you delete the text, and still have the shortcode inside a page or post, it w
 3. Your disclaimer is now in the body of your article to clearly identify that you are receiving compensation.
 
 == Changelog ==
+= 1.0.1 =
+* Minor update
+
 = 1.0 =
 * Initial release.
 
 == Upgrade Notice ==
-= 1.0 =
-* Initial release.
+= 1.0.1 =
+* Minor Update
