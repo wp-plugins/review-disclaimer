@@ -4,7 +4,7 @@
    Plugin URI: http://oizuled.com/wordpress-plugins/review-disclaimer/
    Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CJGP9D7VBYLN8
    Description: Use a shortcode to quickly insert product or service review disclaimers inside your posts.
-   Version: 1.0
+   Version: 1.0.1
    Author: Scott DeLuzio
    Author URI: http://oizuled.com
    License: GPL2
