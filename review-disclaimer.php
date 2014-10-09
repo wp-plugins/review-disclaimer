@@ -1,16 +1,16 @@
 <?php
    /*
    Plugin Name: Review Disclaimer
-   Plugin URI: http://oizuled.com/wordpress-plugins/review-disclaimer/
-   Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CJGP9D7VBYLN8
+   Plugin URI: https://surpriseazwebservices.com/wordpress-plugins/review-disclaimer/
+   Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9AGSF4W2HTR6W
    Description: Use a shortcode to quickly insert product or service review disclaimers inside your posts.
-   Version: 1.0
+   Version: 1.0.2
    Author: Scott DeLuzio
-   Author URI: http://oizuled.com
+   Author URI: http://surpriseazwebservices.com
    License: GPL2
    */
    
-	/*  Copyright 2013  Scott DeLuzio  (email : scott (at) oizuled.com)
+	/*  Copyright 2013  Scott DeLuzio  (email : scott (at) surpriseazwebservices.com)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 
